@@ -1,4 +1,4 @@
-# 👋 Jonathan Koshy
+# Jonathan Jacob Koshy
 
 Hi there! I'm Jonathan, an Electrical Engineering student at the University of Waterloo, I am passionate about AI and hardware, embedded systems, and so much more. I love prototyping, debugging, and exploring how code and circuits come together to solve real problems.
 
