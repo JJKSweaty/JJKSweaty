@@ -1,48 +1,18 @@
-# Jonathan Jacob Koshy
-
+# 💫 About Me:
 Hi there! I'm Jonathan, an Electrical Engineering student at the University of Waterloo, I am passionate about AI and hardware, embedded systems, and so much more. I love prototyping, debugging, and exploring how code and circuits come together to solve real problems.
 
-## 🔧 Projects
 
-### 🎮 STM32 Media Control & Activity Tracker
-A handheld embedded system with a touchscreen interface — kind of like a mini Steam Deck!  
-Built using an **STM32 NUCLEO-F401RE** and a **3.5" capacitive touch display** (ST7796S + FT6336U)  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jonathan-jacob-koshy-49b683291/) 
 
-- 🖥️ Touchscreen UI powered by **LVGL**
-- 🎵 USB HID functionality to control media playback (play, pause, volume, etc.)
--  Tracks system activity, logs usage, and displays stats
--  Uses USB-C for power and communication
--  Fully designed enclosure + hardware integration
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JJKSweaty&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JJKSweaty&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JJKSweaty&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-This project is a deep dive into **embedded C, STM32 HAL drivers, touch interface programming**, and system design.
-### 🧠 SignToLearn
-An AI-powered ASL learning app inspired by Duolingo  
-Built using **Python, TensorFlow, OpenCV, Flask, React**  
-Real-time hand sign translation powered by Mediapipe
+---
+[![](https://visitcount.itsvg.in/api?id=JJKSweaty&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🗳️ FaceAuthVote
-A secure face-authenticated voting system using blockchain principles  
-Implemented **face recognition** for identity confirmation and vote integrity  
-Custom user roles, profile protection, and digital ID management
-
-### ❤️ Embedded Heartbeat Tracker
-An STM32-based embedded system to measure and display heart rate using a **MAX3012 sensor**  
-Features OLED screen integration, signal filtering, and real-time data display
-
-## 💻 Skills
-
-- **Programming:** Python, JavaScript, C++, Java
-- **Web:** React, Flask, APIs, Websockets and SOCKETIO
-- **AI/ML:** TensorFlow, OpenCV, model training  
-- **Embedded Systems:** STM32, Arduino, HAL drivers  
-- **PCB Design:** KiCad, electrical debugging  
-- **IT & Hardware:** Windows/Linux/Mac support, networking, automation scripting
-
-## 📚 About Me
-
-- 🧑‍🎓 Currently studying Electrical Engineering @ University of Waterloo  
-- 🛠️ Co-op experience in AI, software dev, and IT support  
-- 🏀 Big NBA fan – love watching the Lakers and Raptors  
-- 🌐 [My website](https://jonathankoshy.netlify.app/)
-
-Thanks for stopping by!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
