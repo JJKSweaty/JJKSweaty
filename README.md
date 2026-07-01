@@ -2,7 +2,7 @@
 <h3 align="center">Electrical Engineering @ University of Waterloo | Firmware, Embedded Systems & Edge AI</h3>
 
 <p align="center">
-  <a href="https://jonathankoshy.com">Portfolio</a> •
+  <a href="https://jonathankoshy.netlify.app/">Portfolio</a> •
   <a href="mailto:jjacobko@uwaterloo.ca">Email</a> •
   <a href="https://www.linkedin.com/in/jonathan-jacob-koshy-49b683291/">LinkedIn</a> •
   <a href="https://github.com/JJKSweaty">GitHub</a>
