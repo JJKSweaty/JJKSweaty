@@ -80,5 +80,4 @@ I’m open to collaborating on embedded systems, robotics, firmware, edge AI, an
 
 **Email:** [jjacobko@uwaterloo.ca](mailto:jjacobko@uwaterloo.ca)
 **Portfolio:** https://jonathankoshy.com
-**GitHub:** https://github.com/JJKSweaty
 **Location:** Canada
