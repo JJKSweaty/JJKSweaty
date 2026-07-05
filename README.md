@@ -57,8 +57,7 @@ This connects directly with the kind of embedded systems I like building: real h
 ## Projects
 
 Detailed project write-ups, system diagrams, images, and demo videos are available on my portfolio site:
-
-👉 **https://jonathankoshy.com**
+**https://jonathankoshy.netlify.app**
 
 Featured work includes:
 
